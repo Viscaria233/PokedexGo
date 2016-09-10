@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="type_text_size">10sp</dimen>
+    <dimen name="type_text_size_small">9sp</dimen>
+    <dimen name="list_item_skill_text_size">10sp</dimen>
+    <dimen name="header_text_size">10sp</dimen>
+</resources>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_6"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_7"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_8"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_9"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_6"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_7"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_8"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_9"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_10"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_11"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_12"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_13"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_14"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_16"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_17"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_type_18"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_10"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_11"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_12"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_13"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_14"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_15"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_16"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_17"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <include layout="@layout/layout_center_text_field"
+            android:id="@+id/text_field_scalar_18"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

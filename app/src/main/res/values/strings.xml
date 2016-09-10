@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokedex Go</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pokemon_detail">Pokemon</string>
+    <string name="title_activity_basic_skill_detail">Basic Skill</string>
+    <string name="title_activity_charge_skill_detail">Charge Skill</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_add">Add</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/view">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu_item_pokemon"
+                    android:icon="@drawable/pikachu"
+                    android:title="@string/pokemon" />
+                <item
+                    android:id="@+id/menu_item_skill"
+                    android:icon="@drawable/ball"
+                    android:title="@string/skill" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/advanced">
+        <menu>
+            <item
+                android:id="@+id/menu_item_tools"
+                android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/tools" />
+            <item
+                android:id="@+id/menu_item_setting"
+                android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/setting" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_item_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/about" />
+
+</menu>
