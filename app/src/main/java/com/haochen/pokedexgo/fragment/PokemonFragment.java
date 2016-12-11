@@ -382,12 +382,10 @@ public class PokemonFragment extends MyFragment {
             data = this.data;
         } else {
             data = new ArrayList<>();
-            Pokemon pokemon;
             for (Pokemon item : this.data) {
-                pokemon = item;
-                if (pokemon.getName().toLowerCase().contains(key.toLowerCase())
-                        || pokemon.getId().matches("[0]*" + key)
-                        || key.matches("[0]*" + pokemon.getId())) {
+                if (item.getName().toLowerCase().contains(key.toLowerCase())
+                        || item.getId().matches("[0]*" + key)
+                        || key.matches("[0]*" + item.getId())) {
                     data.add(item);
                 }
             }
